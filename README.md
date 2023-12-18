@@ -10,7 +10,7 @@ Once this Regular version is done, i will be working on and uploading:<br>
 
 <b>
 1. Lucania Bold <br>
-2. Lucania Simple (with the angled ends of some of the current letters straightened) <br>
+2. Lucania Simple <br>
 3. Lucania Simple Bold <br>
 4. Lucania Simple Extra Bold <br>
 </b><br>
