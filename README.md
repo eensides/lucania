@@ -3,8 +3,8 @@ Lucania Typeface Family (Free block style tech font for personal use)
 
 The project is currently on it's early stages, but you can still download<br>
 Lucania Regular (Beta) from this repository. I still need to do some fixes<br>
-and add support for more languages, i will be adding spanish support very<br>
-soon.<br>
+and add support for more languages, i will be adding spanish support<br>
+very soon.<br>
 
 Once this Regular version is done, i will be working on and uploading:<br>
 
