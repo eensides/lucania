@@ -17,4 +17,5 @@ Once this Regular version is done, i will be working on and uploading:<br>
 </b><br>
 
 You can use this font freely for personal projects. <br>
-For commercial use you can <a href="eenster@gmail.com"> contact me </a>
+For commercial use, or custom version you can <br>
+<a href="https://linktr.ee/eenoramic"> contact me here </a>
