@@ -19,7 +19,7 @@ Once this Regular version is done, i will be working on and uploading:<br>
 You can use this font freely for personal projects. <br>
 For commercial use, or custom version you can <br>
 <a href="https://linktr.ee/eenoramic"> contact me here </a> <br>
-<a href="[https://linktr.ee/eenoramic](https://www.paypal.com/donate/?hosted_button_id=M85T8NQC8XMJJ)https://www.paypal.com/donate/?hosted_button_id=M85T8NQC8XMJJ"> DONATE ON PAYPAL </a> <br>
+<a href="https://www.paypal.com/donate/?hosted_button_id=M85T8NQC8XMJJ)https://www.paypal.com/donate/?hosted_button_id=M85T8NQC8XMJJ"> DONATE ON PAYPAL </a> <br>
 
 <br>
 
