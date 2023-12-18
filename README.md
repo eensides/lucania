@@ -8,3 +8,4 @@ In the near future i will be uploading:
 3. Lucania Simple Bold
 4. Lucania Simple Extra Bold
 
+You can use this font freely for personal projects. For commercial use you can <a href="eenster@gmail.com"> contact me </a>
