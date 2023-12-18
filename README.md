@@ -1,4 +1,4 @@
-<img src="images_readme/lucania-logo-github.png"> </img>
+<img src="images_readme/lucania-logo-github.png"> </img><br>
 Lucania Typeface Family (Free block style tech font for personal use)
 
 The project is currently on it's early stages, but you can still download Lucania Regular from this repository.
