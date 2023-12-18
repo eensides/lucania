@@ -16,4 +16,5 @@ Once this Regular version is done, i will be working on and uploading:<br>
 5. Lucania Simple Extra Bold <br>
 </b><br>
 
-You can use this font freely for personal projects. For commercial use you can <a href="eenster@gmail.com"> contact me </a>
+You can use this font freely for personal projects. <br>
+For commercial use you can <a href="eenster@gmail.com"> contact me </a>
