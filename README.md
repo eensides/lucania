@@ -9,10 +9,10 @@ soon.<br>
 Once this Regular version is done, i will be working on and uploading:<br>
 
 <b>
-1. Lucania Bold
-2. Lucania Simple (with the angled ends of some of the current letters straightened)
-3. Lucania Simple Bold
-4. Lucania Simple Extra Bold 
+1. Lucania Bold <br>
+2. Lucania Simple (with the angled ends of some of the current letters straightened) <br>
+3. Lucania Simple Bold <br>
+4. Lucania Simple Extra Bold <br>
 </b><br>
 
 You can use this font freely for personal projects. For commercial use you can <a href="eenster@gmail.com"> contact me </a>
