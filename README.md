@@ -11,8 +11,9 @@ Once this Regular version is done, i will be working on and uploading:<br>
 <b>
 1. Lucania Bold <br>
 2. Lucania Simple <br>
-3. Lucania Simple Bold <br>
-4. Lucania Simple Extra Bold <br>
+3. Lucania Extended <br>
+4. Lucania Simple Bold <br>
+5. Lucania Simple Extra Bold <br>
 </b><br>
 
 You can use this font freely for personal projects. For commercial use you can <a href="eenster@gmail.com"> contact me </a>
